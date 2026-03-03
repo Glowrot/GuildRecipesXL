@@ -2,7 +2,7 @@
 **Version:** 0.1
 **Game Version:** Turtle WoW (Interface 11200)
 
-Forked by Glowrot. I didn't like how small it was originally. I also have literally no idea how to code, but I made the UI bigger. :high_brightness:
+I didn't like how small things were in the original version. I also have literally no idea how to code, but I made the UI bigger. :high_brightness:
 
 When you uninstall the original Guild Recipes, and then install this one, it may not work until you /reload in-game.
 
