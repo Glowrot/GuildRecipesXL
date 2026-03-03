@@ -9,7 +9,8 @@ When you uninstall the original Guild Recipes, and then install this one, it may
 If it breaks, un-install this version and re-install the original, don't forget to /reload.
 
 Original made by Sica42
-Original link : https://github.com/sica42/GuildRecipes
+
+Original addon link : https://github.com/sica42/GuildRecipes
 
 GuildRecipes lets you view the recipes of other guild members using the addon.
 If you have GuildAlts installed it will show the main character for any alts sharing recipes.
