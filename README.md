@@ -2,14 +2,19 @@
 **Version:** 0.1
 **Game Version:** Turtle WoW (Interface 11200)
 
-Forked by Glowrot. I didn't like how small it was originally. I have literally no idea how to code, but I made the UI bigger. :high_brightness:
+Forked by Glowrot. I didn't like how small it was originally. I also have literally no idea how to code, but I made the UI bigger. :high_brightness:
 
 When you uninstall the original Guild Recipes, and then install this one, it may not work until you /reload in-game.
 
 If it breaks, un-install this version and re-install the original, don't forget to /reload.
 
-GuilRecipes lets you view the recipes of other guild members using the addon.
+Original made by Sica42
+Original link : https://github.com/sica42/GuildRecipes
+
+GuildRecipes lets you view the recipes of other guild members using the addon.
 If you have GuildAlts installed it will show the main character for any alts sharing recipes.
+
+
 
 ---
 
