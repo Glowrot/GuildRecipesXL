@@ -4,9 +4,9 @@
 
 I didn't like how small things were in the original version. I also have literally no idea how to code, but I made the UI bigger. :high_brightness:
 
-When you uninstall the original Guild Recipes, and then install this one, it may not work until you /reload in-game.
+First, uninstall the original if you have it installed already. Then install this version. If you have issues in-game you may need to delete your WDB folder and /reload in-game.
 
-If it breaks, un-install this version and re-install the original, don't forget to /reload.
+If it breaks, uninstall this version and reinstall the original, don't forget to clear WDB and /reload in-game.
 
 Original made by Sica42
 
