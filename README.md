@@ -1,4 +1,4 @@
-# GuildRecipes
+# GuildRecipes XL
 **Version:** 0.1
 **Game Version:** Turtle WoW (Interface 11200)
 
