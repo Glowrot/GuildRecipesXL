@@ -3,7 +3,9 @@
 **Game Version:** Turtle WoW (Interface 11200)
 
 Forked by Glowrot. I have no idea how to code, but I made the UI bigger, so yeah. :D
+
 When you uninstall the original Guild Recipes, and install this one, it may not work until you /reload in-game.
+
 If it breaks, re-install the original, don't forget to /reload.
 
 GuilRecipes lets you view the recipes of other guild members using the addon.
