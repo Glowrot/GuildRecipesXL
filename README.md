@@ -1,5 +1,5 @@
 # GuildRecipes XL
-**Version:** 0.1
+**Version:** 0.5
 **Game Version:** Turtle WoW (Interface 11200)
 
 I didn't like how small things were in the original version. I also have literally no idea how to code, but I made the UI bigger. :high_brightness:
